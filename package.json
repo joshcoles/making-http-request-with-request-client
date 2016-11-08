@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/joshcoles/making-http-request-with-request-client/issues"
   },
-  "homepage": "https://github.com/joshcoles/making-http-request-with-request-client#readme"
+  "homepage": "https://github.com/joshcoles/making-http-request-with-request-client#readme",
+  "dependencies": {
+    "request": "^2.78.0"
+  }
 }
